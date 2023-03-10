@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="4096"
+   height="1024"
+   viewBox="0 0 4096 1024"
+   fill="none"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="218251089-1782245b-d742-4ecd-b743-77c18811dba6.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview47"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.30664062"
+     inkscape:cx="2048"
+     inkscape:cy="512"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g38" />
+  <g
+     clip-path="url(#clip0_17_2)"
+     id="g38">
+    <rect
+       width="4096"
+       height="1024"
+       rx="64"
+       fill="#002111"
+       id="rect2"
+       style="fill:url(#linearGradient914);fill-opacity:1"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text169"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;white-space:pre;shape-inside:url(#rect171);fill:#ffffff"
+       transform="matrix(1.6820214,0,0,1.7266369,-1336.7633,67.854591)"><tspan
+         x="1484.1268"
+         y="325.96751"
+         id="tspan331"><tspan
+           style="font-family:'Product Sans';-inkscape-font-specification:'Product Sans'"
+           id="tspan329">ThatCakeOS</tspan></tspan></text>
+  </g>
+  <defs
+     id="defs43">
+    <rect
+       x="104.35669"
+       y="150.01274"
+       width="3818.8025"
+       height="737.0191"
+       id="rect171" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient912">
+      <stop
+         style="stop-color:#001132;stop-opacity:1;"
+         offset="0"
+         id="stop908" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop910" />
+    </linearGradient>
+    <clipPath
+       id="clip0_17_2">
+      <rect
+         width="4096"
+         height="1024"
+         rx="64"
+         fill="#ffffff"
+         id="rect40"
+         x="0"
+         y="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient912"
+       id="linearGradient914"
+       x1="0"
+       y1="512"
+       x2="4096"
+       y2="512"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+</svg>
