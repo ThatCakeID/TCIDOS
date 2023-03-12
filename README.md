@@ -7,9 +7,7 @@ TCIDOS
   <img alt="GitHub" src="https://img.shields.io/github/license/ThatCakeID/TCIDOS">
 </p>
 
-<p align="center">
 A text-based interface operating system, forked from [iknowbrain/NIDOS](https://github.com/iknowbrain/NIDOS). Written by [Iyxan23](https://github.com/Iyxan23)
-</p>
 
 <h2>
   License
